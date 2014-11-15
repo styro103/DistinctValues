@@ -1,4 +1,4 @@
-Distinct
+Distinct Values
 ========
 
 Write a function that, given a zero-indexed array A consisting of N integers, returns the number of distinct values in array A.
